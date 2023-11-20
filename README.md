@@ -1,4 +1,4 @@
-# Web Scraping Challenge - README
+# Web Scraping Challenge
 
 ## Overview
 
